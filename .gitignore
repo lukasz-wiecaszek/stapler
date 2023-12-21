@@ -1,0 +1,8 @@
+*.cmd
+Module.symvers
+modules.order
+stplr.o
+stplr.ko
+stplr.mod
+stplr.mod.o
+stplr.mod.c
